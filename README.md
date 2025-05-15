@@ -47,4 +47,5 @@ El grupo deberá:
 
 ## 🚀 ¡A programar!
 
-Este proyecto tiene como fin aplicar buenas prácticas de desarrollo en
+Este proyecto tiene como fin aplicar buenas prácticas de desarrollo en equipo, diseño de software y control de versiones.  
+Además, permitirá poner en práctica conocimientos de bases de datos, C#, validación de datos y principios de arquitectura limpia.
