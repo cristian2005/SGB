@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\documents\\jose\\sgb\\sgb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\documents\\jose\\sgb\\sgb\\aapsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\aapsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\documents\\jose\\sgb\\sgb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\documents\\jose\\sgb\\sgb\\aplicaciondedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\aplicaciondedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\Form1.cs",
+              "RelativeDocumentMoniker": "SGB\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\Form1.cs",
+              "RelativeToolTip": "SGB\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:09:35.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AplicacionDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\AplicacionDeDatos.cs",
+              "RelativeDocumentMoniker": "SGB\\AplicacionDeDatos.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\AplicacionDeDatos.cs",
+              "RelativeToolTip": "SGB\\AplicacionDeDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:36:17.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aapsettings.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\Aapsettings.cs",
+              "RelativeDocumentMoniker": "SGB\\Aapsettings.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\Aapsettings.cs",
+              "RelativeToolTip": "SGB\\Aapsettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:30:05.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\Form1.cs",
+              "RelativeDocumentMoniker": "SGB\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SGB\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:21:41.784Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
