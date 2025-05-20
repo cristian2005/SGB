@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\",
+  "WorkspaceRootPath": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\documents\\jose\\sgb\\sgb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\desktop\\clon sgb\\sgb\\sgb\\entidades\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\entidades\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\desktop\\clon sgb\\sgb\\sgb\\aplicaciondedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\aplicaciondedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\desktop\\clon sgb\\sgb\\sgb\\entidades\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\entidades\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\desktop\\clon sgb\\sgb\\sgb\\entidades\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\entidades\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\desktop\\clon sgb\\sgb\\sgb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\desktop\\clon sgb\\sgb\\sgb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\desktop\\clon sgb\\sgb\\sgb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\desktop\\clon sgb\\sgb\\sgb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\Form1.cs",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Form1.cs",
               "RelativeDocumentMoniker": "SGB\\Form1.cs",
-              "ToolTip": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\Form1.cs [Design]",
-              "RelativeToolTip": "SGB\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Form1.cs",
+              "RelativeToolTip": "SGB\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:09:35.829Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prestamos.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Entidades\\Prestamos.cs",
+              "RelativeDocumentMoniker": "SGB\\Entidades\\Prestamos.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Entidades\\Prestamos.cs",
+              "RelativeToolTip": "SGB\\Entidades\\Prestamos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:09:23.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libros.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Entidades\\Libros.cs",
+              "RelativeDocumentMoniker": "SGB\\Entidades\\Libros.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Entidades\\Libros.cs",
+              "RelativeToolTip": "SGB\\Entidades\\Libros.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:05:38.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Entidades\\Usuarios.cs",
+              "RelativeDocumentMoniker": "SGB\\Entidades\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Entidades\\Usuarios.cs",
+              "RelativeToolTip": "SGB\\Entidades\\Usuarios.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:25:02.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\appsettings.json",
+              "RelativeDocumentMoniker": "SGB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\appsettings.json",
+              "RelativeToolTip": "SGB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T21:49:19.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Program.cs",
+              "RelativeDocumentMoniker": "SGB\\Program.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Program.cs",
+              "RelativeToolTip": "SGB\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:40:07.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Form1.cs",
+              "RelativeDocumentMoniker": "SGB\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SGB\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T21:21:41.784Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AplicacionDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\AplicacionDeDatos.cs",
+              "RelativeDocumentMoniker": "SGB\\AplicacionDeDatos.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\AplicacionDeDatos.cs",
+              "RelativeToolTip": "SGB\\AplicacionDeDatos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:36:17.058Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\SGB.csproj": {}
+    "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\SGB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\SGB.csproj": {
+    "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\SGB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\SGB.csproj",
+        "projectUniqueName": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\SGB.csproj",
         "projectName": "SGB",
-        "projectPath": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\SGB.csproj",
+        "projectPath": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\SGB.csproj",
         "packagesPath": "C:\\Users\\Cristian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cristian\\Documents\\Jose\\SGB\\SGB\\obj\\",
+        "outputPath": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cristian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,6 +56,10 @@
               "version": "[9.0.5, )"
             },
             "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
               "target": "Package",
               "version": "[9.0.5, )"
             },
