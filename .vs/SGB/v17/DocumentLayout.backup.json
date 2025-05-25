@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Migrations\\20250520234821_TablaLibroYPrestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SGB\\Migrations\\20250520234821_TablaLibroYPrestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|c:\\users\\cristian\\desktop\\clon sgb\\sgb\\sgb\\entidades\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5880EBAC-1236-4589-B00F-D4A21AE5BEC0}|SGB\\SGB.csproj|solutionrelative:sgb\\entidades\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,7 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Form1.cs",
               "RelativeDocumentMoniker": "SGB\\Form1.cs",
@@ -61,6 +65,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250520234821_TablaLibroYPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Migrations\\20250520234821_TablaLibroYPrestamo.cs",
+              "RelativeDocumentMoniker": "SGB\\Migrations\\20250520234821_TablaLibroYPrestamo.cs",
+              "ToolTip": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Migrations\\20250520234821_TablaLibroYPrestamo.cs",
+              "RelativeToolTip": "SGB\\Migrations\\20250520234821_TablaLibroYPrestamo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:48:21.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Prestamos.cs",
               "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Entidades\\Prestamos.cs",
               "RelativeDocumentMoniker": "SGB\\Entidades\\Prestamos.cs",
@@ -73,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Libros.cs",
               "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Entidades\\Libros.cs",
               "RelativeDocumentMoniker": "SGB\\Entidades\\Libros.cs",
@@ -86,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Usuarios.cs",
               "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Entidades\\Usuarios.cs",
               "RelativeDocumentMoniker": "SGB\\Entidades\\Usuarios.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\appsettings.json",
               "RelativeDocumentMoniker": "SGB\\appsettings.json",
@@ -112,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Program.cs",
               "RelativeDocumentMoniker": "SGB\\Program.cs",
@@ -125,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\Form1.cs",
               "RelativeDocumentMoniker": "SGB\\Form1.cs",
@@ -137,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AplicacionDeDatos.cs",
               "DocumentMoniker": "C:\\Users\\Cristian\\Desktop\\Clon SGB\\SGB\\SGB\\AplicacionDeDatos.cs",
               "RelativeDocumentMoniker": "SGB\\AplicacionDeDatos.cs",
