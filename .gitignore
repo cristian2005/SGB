@@ -93,3 +93,6 @@ nunit-*.xml
 # Temporary files
 *.tmp
 *.temp
+/.vs/SGB/v17
+*.dll
+/.vs
