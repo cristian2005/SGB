@@ -8,7 +8,7 @@ namespace SGB
             InitializeComponent();
             if (!ProbarConexion())
             {
-                MessageBox.Show("Error al conectar con la base de datos. La aplicación se cerrará.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Error al conectar con la base de datos. La aplicaciï¿½n se cerrarï¿½.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
             }
             else

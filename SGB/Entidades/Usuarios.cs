@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SGB.Entidades
 {
-    internal class Usuarios
+    public class Usuarios
     {
         public int Id { get; set; }
         [MaxLength(100)]
