@@ -12,7 +12,7 @@ namespace SGB.Migrations
 {
     [DbContext(typeof(BibliotecaBDContext))]
     [Migration("20250520230339_inicial")]
-    partial class inicial
+    partial class Inicial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

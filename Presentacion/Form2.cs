@@ -1,8 +1,10 @@
-namespace SGB
+using SGB;
+
+namespace Presentacion
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
             InitializeComponent();
@@ -15,7 +17,6 @@ namespace SGB
             {
                 MessageBox.Show("Base de dato conectada");
             }
-
         }
         private static bool ProbarConexion()
         {
@@ -29,7 +30,6 @@ namespace SGB
                 return false;
             }
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
 

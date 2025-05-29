@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SGB.Entidades
 {
-    internal class Prestamos
+    public class Prestamos
     {
         public int Id { get; set; }
         public DateTime Fecha_De_Inicio { get; set; }
