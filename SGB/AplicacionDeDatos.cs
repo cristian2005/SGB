@@ -11,7 +11,7 @@ using SGB.Entidades;
 
 namespace SGB
 {
-    internal class BibliotecaBDContext : DbContext
+    public class BibliotecaBDContext : DbContext
     {
         #region Entidades inizializacion 
         public DbSet<Usuarios> Usuarios { get; set; }
