@@ -24,4 +24,8 @@
     <ProjectReference Include="..\SGB\SGB.Datos.csproj" />
   </ItemGroup>
 
+	<ItemGroup>
+		<ProjectReference Include="..\logicaNegocio\logicaNegocio.csproj" />
+	</ItemGroup>
+
 </Project>

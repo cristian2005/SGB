@@ -1,4 +1,6 @@
 using SGB;
+using logicaNegocio;
+using logicaNegocio.CrudUsuario;
 
 namespace Presentacion
 {
@@ -32,7 +34,8 @@ namespace Presentacion
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            CreateUsuario createUsuario = new CreateUsuario();
+            createUsuario.CrearUsuario();
         }
     }
 }
