@@ -10,11 +10,17 @@ namespace logicaNegocio.CrudUsuario
 {
     public class DeleteUsuario
     {
-        public void EliminarUsuario()
+        public void EliminarUsuario(int id )
         {
             using (BibliotecaBDContext db = new BibliotecaBDContext())
             {
-                Usuarios xUsuario = db.Usuarios.Where(x => x.Id == 1).FirstOrDefault();
+                Usuarios xUsuario = new Usuarios()
+                {
+                    Id = id
+                };
+
+                var elimador = db.Usuarios.Where ( x => x.Id == id );
+
                 db.Usuarios.Remove(xUsuario);
                 
                 db.SaveChanges();

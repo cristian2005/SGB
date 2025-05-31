@@ -9,15 +9,6 @@ namespace logicaNegocio.CrudLibro
 {
     public class ReadLibro
     {
-       
-            public void Readlibro()
-            {
-                using (BibliotecaBDContext db = new BibliotecaBDContext())
-                {
-                    var lst = db.Libros.ToList();
-                }
-            }
-
         
     }
 }
