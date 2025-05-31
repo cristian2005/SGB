@@ -17,7 +17,7 @@ namespace Presentacion
             using var context = new BibliotecaBDContext();
             context.Database.EnsureCreated();
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form2());
+            Application.Run(new FrmInicio());
         }
     }
 }

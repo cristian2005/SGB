@@ -8,18 +8,8 @@ using System.Threading.Tasks;
 
 namespace logicaNegocio.CrudLibro
 {
-    internal class CreateLibro
+    public class CreateLibro
     {
-        public void CrearLibro()
-        {
-            using (BibliotecaBDContext db = new BibliotecaBDContext())
-            {
-                Libros xLibro = new Libros();
-                xLibro.Autor = "Autor";
-                xLibro.Titulo = "titulo";
-                xLibro.Genero = "Genero";
-                db.SaveChanges();
-            }
-        }
+        
     }
 }

@@ -11,16 +11,17 @@ namespace logicaNegocio.CrudUsuario
 {
   public class CreateUsuario
     {
-        public void CrearUsuario()
+        public void CrearUsuario(string nombre, string correo, string telefono, string direccion)
         {
             using (BibliotecaBDContext db = new BibliotecaBDContext())
             {
-                Usuarios xUsuario = new Usuarios();
-                xUsuario.Nombre = "hector";
-                xUsuario.Correo = "hector@gmail.com";
-                xUsuario.Telefono = "8297144352";
-                xUsuario.Direccion = "calle 1ra";
-
+                Usuarios xUsuario = new Usuarios()
+                {
+                    Nombre = nombre,
+                    Correo = correo,
+                    Telefono = telefono,
+                    Direccion = direccion
+                };
                 db.Usuarios.Add(xUsuario);
                 db.SaveChanges();
             }

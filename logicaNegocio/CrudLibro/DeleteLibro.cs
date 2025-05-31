@@ -10,15 +10,6 @@ namespace logicaNegocio.CrudLibro
 {
     public class DeleteLibro
     {
-        public void EliminarLibroo()
-        {
-            using (BibliotecaBDContext db = new BibliotecaBDContext())
-            {
-                Libros xLibro = db.Libros.Where(x => x.Id == 1).FirstOrDefault();
-                db.Libros.Remove(xLibro);
-
-                db.SaveChanges();
-            }
-        }
+       
     }
 }
