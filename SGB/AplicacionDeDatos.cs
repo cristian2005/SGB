@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using System.IO;
 using System.Security.Permissions;
 using SGB.Entidades;
+using SGB.Datos.Entidades;
 
 namespace SGB
 {
@@ -16,7 +17,10 @@ namespace SGB
         #region Entidades inizializacion 
         public DbSet<Usuarios> Usuarios { get; set; }
         public DbSet<Libros> Libros { get; set; }
-        public DbSet<Prestamos> Prestamos { get; set; }
+        public DbSet<Disponibilidad> Disponibilidad { get; set; }
+        public DbSet<Prestamos> prestamo { get; set; }
+
+        public  DbSet <Multa> Multas { get; set; }
         #endregion
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -30,7 +34,11 @@ namespace SGB
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
+            modelBuilder.Entity<Prestamos>()
+       .HasOne(p => p.Usuario)
+       .WithMany()
+       .HasForeignKey(p => p.UsuarioId)
+       .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }
